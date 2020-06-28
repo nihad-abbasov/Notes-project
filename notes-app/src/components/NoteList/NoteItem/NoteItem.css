@@ -1,0 +1,27 @@
+.custom-box{
+  width: 300px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: white;
+  
+}
+
+
+
+.title{
+  border-bottom: 1px solid white;
+  padding-bottom: 10px;
+}
+.content .date{
+  margin-top: -10px;
+}
+
+.content .viewMoreBtn{
+  text-decoration: none;
+  margin-bottom: 20px;
+  float: right;
+  color: white;
+}

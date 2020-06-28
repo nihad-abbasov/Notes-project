@@ -1,0 +1,29 @@
+.note-details{
+  width: 500px;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: white;
+  
+  background-color: black;
+}
+
+.single-note-page{
+  display: flex;
+  justify-content: space-around;
+}
+
+.actions{
+  width: 250px;
+  height: 35vh; 
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px ;
+}
+.actions .nav-link{
+  margin-bottom: 10px;
+}
